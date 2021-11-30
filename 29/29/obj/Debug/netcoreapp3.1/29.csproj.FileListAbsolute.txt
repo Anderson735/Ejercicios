@@ -1,0 +1,13 @@
+D:\C# CARLOS\Algoritmos C#\29\29\bin\Debug\netcoreapp3.1\29.exe
+D:\C# CARLOS\Algoritmos C#\29\29\bin\Debug\netcoreapp3.1\29.deps.json
+D:\C# CARLOS\Algoritmos C#\29\29\bin\Debug\netcoreapp3.1\29.runtimeconfig.json
+D:\C# CARLOS\Algoritmos C#\29\29\bin\Debug\netcoreapp3.1\29.runtimeconfig.dev.json
+D:\C# CARLOS\Algoritmos C#\29\29\bin\Debug\netcoreapp3.1\29.dll
+D:\C# CARLOS\Algoritmos C#\29\29\bin\Debug\netcoreapp3.1\29.pdb
+D:\C# CARLOS\Algoritmos C#\29\29\obj\Debug\netcoreapp3.1\29.csproj.AssemblyReference.cache
+D:\C# CARLOS\Algoritmos C#\29\29\obj\Debug\netcoreapp3.1\29.AssemblyInfoInputs.cache
+D:\C# CARLOS\Algoritmos C#\29\29\obj\Debug\netcoreapp3.1\29.AssemblyInfo.cs
+D:\C# CARLOS\Algoritmos C#\29\29\obj\Debug\netcoreapp3.1\29.csproj.CoreCompileInputs.cache
+D:\C# CARLOS\Algoritmos C#\29\29\obj\Debug\netcoreapp3.1\29.dll
+D:\C# CARLOS\Algoritmos C#\29\29\obj\Debug\netcoreapp3.1\29.pdb
+D:\C# CARLOS\Algoritmos C#\29\29\obj\Debug\netcoreapp3.1\29.genruntimeconfig.cache
